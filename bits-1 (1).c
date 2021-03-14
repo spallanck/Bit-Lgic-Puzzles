@@ -1,7 +1,7 @@
 /*
  *
  * <Please put your name and userid here>
- * Sophie Pallanck W#01402279, Alex Schwendeman W#01431634
+ * Sophie Pallanck W#01402279
  * 
  *
  * bits.c - Source file with your solutions to the Lab.
